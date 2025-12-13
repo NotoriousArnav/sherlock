@@ -1,22 +1,19 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
 HackerRank
 Hubski
 LushStories
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
 Splice
 Spotify
-Trovo
+Vero
 Weblate
 YandexMusic
 opennet
