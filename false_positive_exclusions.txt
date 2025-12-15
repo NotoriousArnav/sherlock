@@ -17,6 +17,9 @@ Spotify
 Trovo
 Vero
 Weblate
+Wordnik
 YandexMusic
 opennet
 svidbook
+threads
+xHamster
