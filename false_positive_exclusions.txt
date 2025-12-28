@@ -21,5 +21,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
-threads
 xHamster
