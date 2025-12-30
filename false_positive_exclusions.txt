@@ -1,6 +1,6 @@
 APClips
-Archive of Our Own
-CGTrader
+Archive.org
+Audiojungle
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -14,6 +14,7 @@ Reddit
 RocketTube
 Scribd
 SlideShare
+SpeakerDeck
 Splice
 Spotify
 Weblate
@@ -21,4 +22,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
-threads
+xHamster
