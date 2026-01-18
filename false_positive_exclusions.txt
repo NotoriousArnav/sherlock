@@ -2,15 +2,14 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
-Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -26,4 +25,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
