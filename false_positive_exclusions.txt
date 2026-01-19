@@ -3,13 +3,12 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -21,6 +20,7 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
