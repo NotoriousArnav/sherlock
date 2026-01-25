@@ -3,11 +3,12 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
-Flipboard
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 PocketStars
 Realmeye
@@ -25,4 +26,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
