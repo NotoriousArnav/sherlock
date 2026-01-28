@@ -1,14 +1,16 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
+LiveJournal
 LushStories
 Minecraft
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -24,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
