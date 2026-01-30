@@ -1,15 +1,15 @@
 APClips
 Archive.org
+Audiojungle
+BitBucket
 Code Snippet Wiki
 DeviantArt
-Eintracht Frankfurt Forum
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
-ImgUp.cz
-LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -22,8 +22,8 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+igromania
 mercadolivre
+opennet
 phpRU
 svidbook
-threads
-xHamster
