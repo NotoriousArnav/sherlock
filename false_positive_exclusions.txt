@@ -7,8 +7,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -19,7 +17,9 @@ Smule
 Splice
 Spotify
 Trovo
+TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
