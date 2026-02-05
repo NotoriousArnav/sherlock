@@ -1,6 +1,8 @@
 APClips
+Academia.edu
 Archive.org
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -8,6 +10,7 @@ Giphy
 Hubski
 LushStories
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -16,6 +19,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
