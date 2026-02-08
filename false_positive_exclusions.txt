@@ -1,13 +1,15 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cults3D
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
+LushStories
+Mamot
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -17,6 +19,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -24,3 +27,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
