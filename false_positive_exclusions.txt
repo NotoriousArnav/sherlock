@@ -8,6 +8,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -17,11 +18,12 @@ SlideShare
 Smule
 Splice
 Spotify
+Tiendanube
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
