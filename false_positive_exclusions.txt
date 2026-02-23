@@ -1,6 +1,7 @@
 APClips
 Archive.org
 Code Snippet Wiki
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -24,5 +25,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
