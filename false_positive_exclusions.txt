@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -11,6 +10,7 @@ LushStories
 Minecraft
 Patched
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -22,7 +22,7 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
-opennet
 phpRU
 svidbook
