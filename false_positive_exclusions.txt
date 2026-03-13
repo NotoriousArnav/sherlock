@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Audiojungle
 Codolio
 GNOME VCS
 GeeksforGeeks
@@ -17,6 +18,7 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Strava
@@ -24,7 +26,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
