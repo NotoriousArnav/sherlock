@@ -1,7 +1,7 @@
 APClips
 Archive.org
 Codolio
-Dribbble
+Cracked Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -20,7 +20,6 @@ Splice
 Spotify
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
 opennet
