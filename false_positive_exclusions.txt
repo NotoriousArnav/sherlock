@@ -1,6 +1,7 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
@@ -19,6 +20,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -26,4 +28,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
