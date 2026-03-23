@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Codolio
-Cults3D
 GeeksforGeeks
 Giphy
 Hashnode
@@ -23,9 +22,10 @@ Splice
 Spotify
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 minds
+opennet
 phpRU
 svidbook
-xHamster
