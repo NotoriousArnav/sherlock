@@ -1,7 +1,9 @@
 7Cups
 APClips
 Archive.org
+Audiojungle
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -21,6 +23,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
