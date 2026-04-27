@@ -3,9 +3,8 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
-BoardGameGeek
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -22,12 +21,14 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Shelf
 SlideShare
 Smule
 Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
