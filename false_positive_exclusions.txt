@@ -4,9 +4,8 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -20,13 +19,13 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
