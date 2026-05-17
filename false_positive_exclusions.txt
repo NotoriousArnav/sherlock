@@ -5,25 +5,21 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Codolio
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Itch.io
 LushStories
-Minecraft
 Patched
 Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -42,4 +38,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
