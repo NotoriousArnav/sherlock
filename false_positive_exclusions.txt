@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,9 +12,10 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
+Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
