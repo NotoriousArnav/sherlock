@@ -6,8 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,6 +17,7 @@ Hubski
 LessWrong
 LushStories
 Odysee
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -29,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
