@@ -6,18 +6,18 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Codolio
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -39,6 +39,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
