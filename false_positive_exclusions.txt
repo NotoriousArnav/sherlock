@@ -8,7 +8,6 @@ ArtStation
 Bandcamp
 Codolio
 Cults3D
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,9 +15,11 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LiveJournal
 LushStories
+Minecraft
 Odysee
 OurDJTalk
 Patched
@@ -33,7 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
+Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -46,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
