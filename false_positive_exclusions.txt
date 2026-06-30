@@ -5,9 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Codolio
-Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,7 +16,9 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
+PCGamer
 Patched
 Rarible
 Realmeye
@@ -29,7 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
