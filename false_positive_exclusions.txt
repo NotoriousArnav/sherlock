@@ -36,7 +36,6 @@ Spotify
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
@@ -44,7 +43,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
