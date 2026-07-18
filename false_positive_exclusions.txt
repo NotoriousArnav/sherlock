@@ -17,10 +17,10 @@ Hubski
 LessWrong
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -41,7 +41,7 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+xHamster
