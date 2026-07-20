@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
@@ -12,15 +13,16 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Odysee
 PCGamer
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -29,6 +31,7 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+SmugMug
 Splice
 Spotify
 Trovo
