@@ -6,19 +6,16 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -31,9 +28,9 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-SmugMug
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -47,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
