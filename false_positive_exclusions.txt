@@ -18,8 +18,8 @@ Houzz
 Hubski
 Instapaper
 LessWrong
-LiveJournal
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,11 +30,9 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
