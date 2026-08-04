@@ -9,7 +9,6 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -23,7 +22,6 @@ Instapaper
 LessWrong
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -38,11 +36,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
+Strava
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
