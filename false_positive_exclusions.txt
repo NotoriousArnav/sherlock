@@ -1,12 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -29,12 +28,11 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
-Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -45,6 +43,8 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
