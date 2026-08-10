@@ -6,13 +6,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -21,7 +22,6 @@ Hubski
 Instapaper
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -44,7 +44,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-dcinside
 igromania
 interpals
 mercadolivre
