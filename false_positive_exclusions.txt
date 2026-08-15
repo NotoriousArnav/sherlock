@@ -6,10 +6,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
-Cults3D
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,10 +20,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LushStories
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -39,8 +35,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trakt
 Trovo
 TryHackMe
 Weblate
