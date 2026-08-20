@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,9 +20,9 @@ Houzz
 Hubski
 Instapaper
 LushStories
+Minecraft
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -42,7 +43,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
@@ -51,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
