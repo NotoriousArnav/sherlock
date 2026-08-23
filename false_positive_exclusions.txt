@@ -33,9 +33,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
