@@ -8,8 +8,8 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -23,6 +23,7 @@ Instapaper
 LushStories
 Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -52,3 +53,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
