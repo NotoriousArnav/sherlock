@@ -6,24 +6,26 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 Cracked Forum
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+GitBook
 Hashnode
 Houzz
 Hubski
 Instapaper
 LushStories
 Minecraft
+ObservableHQ
 Odysee
 PCGamer
 Pornhub
@@ -38,6 +40,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,4 +56,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
