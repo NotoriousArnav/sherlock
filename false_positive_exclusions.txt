@@ -1,15 +1,14 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+CGTrader
 Championat
 Chatujme.cz
-ChaturBate
-Coders Rank
 Codolio
 Cracked Forum
 DeviantArt
@@ -21,11 +20,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Lobsters
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
