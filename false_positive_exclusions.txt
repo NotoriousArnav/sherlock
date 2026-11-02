@@ -1,13 +1,13 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+Carbonmade
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -20,8 +20,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -37,6 +39,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -49,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
