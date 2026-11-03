@@ -1,29 +1,19 @@
+APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
-ArtStation
-Bandcamp
-Blogger
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Itch.io
-Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -37,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
