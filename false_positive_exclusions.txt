@@ -1,14 +1,12 @@
-APClips
 Airliners
+AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
@@ -17,10 +15,10 @@ Hashnode
 Hubski
 Instapaper
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -38,6 +36,7 @@ Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -46,5 +45,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
-xHamster
