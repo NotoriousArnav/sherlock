@@ -1,8 +1,8 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -10,6 +10,7 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitBook
 HackerNews
 Hashnode
 Hubski
@@ -18,7 +19,6 @@ LushStories
 Minecraft
 ObservableHQ
 Odysee
-Outgress
 PCGamer
 Rarible
 Realmeye
@@ -34,6 +34,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
