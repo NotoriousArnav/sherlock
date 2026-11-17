@@ -14,7 +14,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
