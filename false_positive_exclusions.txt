@@ -1,9 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-Championat
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -15,9 +15,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,6 +28,7 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
