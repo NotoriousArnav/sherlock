@@ -3,7 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+Audiojungle
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -17,6 +17,7 @@ Hubski
 Instapaper
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -30,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -41,7 +43,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
