@@ -3,7 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -14,13 +13,13 @@ GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
-Image Fap
 Instapaper
 Itch.io
 Linktree
 LushStories
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -32,9 +31,11 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
